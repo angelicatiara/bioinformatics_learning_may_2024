@@ -1,0 +1,42 @@
+This is the (yet-to-be-polished) rudimentary curriculum for the next 5 weeks, if we want to progress somewhere.
+
+Week 1: Introduction to Bioinformatics (15-22 May 2024) 
+
+Day 1: Overview of bioinformatics, biological databases, and common file formats (FASTA, FASTQ, BED, etc.).
+To-Do: Explore resources like NCBI and UCSC Genome Browser.
+Day 2-3: Introduction to Python for bioinformatics.
+To-Do: Learn basics of Python programming language if you're not already familiar.
+Day 4-5: Introduction to R for bioinformatics.
+To-Do: Familiarize yourself with R programming language if you're not already familiar.
+Week 2: Sequence Analysis
+
+Day 1-2: Sequence manipulation and analysis in Python.
+To-Do: Use libraries like Biopython for reading, writing, and analyzing biological sequences.
+Day 3-4: Sequence analysis in R.
+To-Do: Explore Bioconductor packages for sequence analysis tasks.
+Day 5-7: Work on a small project: sequence alignment or motif discovery.
+To-Do: Implement sequence alignment algorithms or motif discovery methods using Python or R.
+Week 3: Genome Analysis
+
+Day 1-2: Genome assembly and annotation using Python.
+To-Do: Use tools like SPAdes or Velvet for genome assembly and tools like Prokka for genome annotation.
+Day 3-4: Genome analysis in R.
+To-Do: Explore packages for genome visualization and analysis in R (e.g., GenomicRanges).
+Day 5-7: Work on a project: genome assembly or gene expression analysis.
+To-Do: Choose a genome assembly project or analyze gene expression data using Python or R.
+Week 4: Structural Bioinformatics
+
+Day 1-2: Protein structure analysis with Python.
+To-Do: Use libraries like Biopython and PyMOL for protein structure analysis and visualization.
+Day 3-4: Protein structure analysis with R.
+To-Do: Explore Bioconductor packages for protein structure analysis (e.g., Bio3D).
+Day 5-7: Work on a project: protein structure prediction or molecular docking.
+To-Do: Implement protein structure prediction algorithms or perform molecular docking using Python or R.
+Week 5: Systems Biology and Network Analysis
+
+Day 1-2: Systems biology analysis with Python.
+To-Do: Use libraries like NetworkX for network analysis and modeling biological systems.
+Day 3-4: Systems biology analysis with R.
+To-Do: Explore packages for systems biology modeling and analysis in R (e.g., igraph, CellNOptR).
+Day 5-7: Work on a project: biological network analysis or pathway enrichment analysis.
+To-Do: Analyze biological networks or perform pathway enrichment analysis using Python or R.
